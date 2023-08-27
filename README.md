@@ -23,7 +23,7 @@
 ![screencapture-file-D-CSE-Postman-dmoney-users-transaction-automation-newman-Reports-report-html-2023-08-25-09_54_09](https://github.com/Shaishab10/dmoney-users-transaction-automation-newman/assets/54171379/dd6d4e5b-afd9-4626-a676-133c03e95ea0)
 
 ## Test Cases
-https://docs.google.com/spreadsheets/d/1Y2tCnEV6WuWzbKUZLrCnK3ZUwcA5nM0k/edit?usp=sharing&ouid=117120284960221469947&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1HfPwUd1Qzo6HdVTpDRvFuD7iGEIpMTwH/edit?usp=sharing&ouid=117120284960221469947&rtpof=true&sd=true
 
 ## Bug Report
-https://docs.google.com/spreadsheets/d/1YpjWpj8rZrku9oh5H1OQccW1b3Zk_LNf/edit?usp=sharing&ouid=117120284960221469947&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1FtxFtMblC9UnmMqFW6-vjcRoRuVyE4fa/edit?usp=sharing&ouid=117120284960221469947&rtpof=true&sd=true

@@ -1,7 +1,7 @@
-# dmoney-users-transaction-automation by postman & newman
+# <div align=center> Dmoney-users-transaction-automation by postman & newman </div>
 
 ## About this project:
-### d-money is a demo financial related project where fake money can be transferred. In this project I have automate the d-money api using postman and newman. Here I have covered folowing tasks as login, create new user, deposit money, withdraw money, send money & payment.
+### d-money is a demo financial related project where fake money can be transferred. In this project I have automate the d-money api using postman and newman. Here I have covered folowing tasks as login, create new user, deposit money, withdraw money, send money & payment. A Newman report has been created based on the API test results, all test cases were written manually and a bug report has been created to document any issues discovered during testing.
 
 ## Tools & Technology used:
 - postman
